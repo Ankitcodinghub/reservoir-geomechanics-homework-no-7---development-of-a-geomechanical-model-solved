@@ -1,0 +1,1 @@
+# reservoir-geomechanics-homework-no-7---development-of-a-geomechanical-model-solved
